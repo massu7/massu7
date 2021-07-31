@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/massu7">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=massu7&show_icons=true&include_all_commits=true&count_private=true&title_color=4078c0&icon_color=4078c0&text_color=9f9f9f&bg_color=151515"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massu7&layout=compact&langs_count=10&title_color=4078c0&icon_color=4078c0&text_color=9f9f9f&bg_color=151515"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=massu7&show_icons=true&include_all_commits=true&count_private=true&title_color=4078c0&icon_color=4078c0&text_color=9f9f9f&bg_color=151515"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massu7&layout=compact&langs_count=10&title_color=4078c0&icon_color=4078c0&text_color=9f9f9f&bg_color=151515"/>
 </div>
   
 <div>
